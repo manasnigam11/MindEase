@@ -24,6 +24,19 @@ The project uses a modern web stack with a decoupled frontend and backend:
 * **Database:** MongoDB for flexible document storage of user entries, sessions, and chat logs.
 * **Deployment-ready:** Separate build/deploy flows for frontend and backend so the app can scale and integrate with third-party services (auth, video, notifications).
 
+## My Personal Contribution
+
+In this project, I primarily focused on backend development and system integration. I was responsible for designing and managing the database using MongoDB, ensuring efficient storage, retrieval, and handling of user data.
+
+I implemented secure user authentication features, including sign-up and login functionality, to maintain privacy and data security. Additionally, I developed the core logic for the booking system, enabling students to seamlessly schedule counseling sessions. I also contributed to building the dashboard logic to help manage user interactions and system flow effectively.
+
+Beyond backend development, I played a key role in integrating different components of the system, ensuring smooth communication between frontend and backend. I also made minor frontend improvements and fixes wherever required to enhance usability and overall performance.
+
+Overall, my contribution focused on building a reliable backend, ensuring system functionality, and supporting the team in delivering a complete, real-world mental health support solution.
+
+This role strengthened my understanding of backend architecture, database design, and real-world system integration.
+
+
 ## Impact & goals
 
 MindHaven aims to reduce barriers to mental-health care by encouraging regular self-monitoring and streamlining access to support. For SIH judges and future users, the project demonstrates a practical, deployable approach to mental wellness tools that can be adapted for colleges, workplaces, or community health programs.
@@ -37,7 +50,7 @@ Got it 👍 You want a **clear “how to run” guide** so anyone (judges, teamm
 ## 1. Clone the repo
 
 ```bash
-git clone https://github.com/Krrish-Dangi/MindHaven.git
+git clone https://github.com/manasnigam11/MindEase.git
 cd MindHaven/MindEase
 ```
 
